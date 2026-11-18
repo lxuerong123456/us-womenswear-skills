@@ -123,16 +123,6 @@ examples/
 docs/
   workflows.md                      取数、运行、报告口径与常见问题
 ```
-
-## 致谢与来源
-
-| 参考项目 | 借鉴的方法 |
-|---|---|
-| [FastMoss Skills](https://github.com/FastMoss/fastmoss-skills) | 同期比较成交、达人和视频，核对推广集中度与跟款时机 |
-| [卖家精灵 Skills](https://github.com/opensellersprite/sellersprite-skills) | 季节前置、低评分数新品验证、变体和关键词筛选 |
-| [SeaLeap Amazon Skills](https://github.com/xjli360/sealeap-amazon-skills) | 服饰竞品对齐，把合身度和退货线索变成样衣验证 |
-| [Nexscope eCommerce Skills](https://github.com/nexscope-ai/eCommerce-Skills) | 按主题、频次和使用后果归纳评论，确定设计改动优先级 |
-
 [查看引用的具体工作流和版本](skills/us-womenswear-product-research/references/sources.md)
 
 ## 订阅与更新
