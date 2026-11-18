@@ -1,0 +1,4 @@
+interface:
+  display_name: "美国女装市场日报"
+  short_description: "扫描美国女装市场，优先找下一季可打样的四季款，并追踪一个 TikTok 新趋势"
+  default_prompt: "用 $us-womenswear-market-report 跑一期美国女装市场日报，优先找下一季值得打样的四季款。"

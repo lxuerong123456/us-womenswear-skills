@@ -1,0 +1,4 @@
+interface:
+  display_name: "美国女装选品与跟款验证"
+  short_description: "发女装款图或商品链接，查美国市场、同版竞品和买家评价，判断是否值得打样"
+  default_prompt: "用 $us-womenswear-product-research 调研我发的款式，给出市场证据、入围判断和第一版打样建议。"

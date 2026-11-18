@@ -1,0 +1,12 @@
+# GitHub 调研来源
+
+这份清单记录本 Skill 参考的固定版本。运行时按所在环境可用的数据连接取数；上游源码可在下列仓库查阅。
+
+| 项目与版本 | 核对的原始材料 | 在本 Skill 中的用法 |
+|---|---|---|
+| FastMoss Skills · [b11862f](https://github.com/FastMoss/fastmoss-skills/tree/b11862f4fddcb2e7c190c4ed4eab6ea0a3f890be) | [商品初筛](https://github.com/FastMoss/fastmoss-skills/blob/b11862f4fddcb2e7c190c4ed4eab6ea0a3f890be/references/fm-product-scout.md)、[跟款时机](https://github.com/FastMoss/fastmoss-skills/blob/b11862f4fddcb2e7c190c4ed4eab6ea0a3f890be/cases/01-follow-seller-timing.md)、[起量归因](https://github.com/FastMoss/fastmoss-skills/blob/b11862f4fddcb2e7c190c4ed4eab6ea0a3f890be/cases/03-growth-attribution.md) | 用同时间窗核对销量、达人和视频的变化，检查推广集中度与归因范围。 |
+| 卖家精灵 Skills · [26fd853](https://github.com/opensellersprite/sellersprite-skills/tree/26fd853e7a5cd55b80bea552b33b1c140d8db4ec) | [季节需求](https://github.com/opensellersprite/sellersprite-skills/blob/26fd853e7a5cd55b80bea552b33b1c140d8db4ec/tactical/seasonal-prepositioning.md)、[新品证据](https://github.com/opensellersprite/sellersprite-skills/blob/26fd853e7a5cd55b80bea552b33b1c140d8db4ec/tactical/hidden-bestseller.md)、[变体拆解](https://github.com/opensellersprite/sellersprite-skills/blob/26fd853e7a5cd55b80bea552b33b1c140d8db4ec/tactical/variant-gap-analysis.md) | 验证旺季窗口和新卖家入场证据，识别父体内部的结构与规格差异。 |
+| SeaLeap Amazon Skills · [1283764](https://github.com/xjli360/sealeap-amazon-skills/tree/1283764556e61cbe56c600bbe504b8731b2254cb) | [服饰类目趋势与选品](https://github.com/xjli360/sealeap-amazon-skills/blob/1283764556e61cbe56c600bbe504b8731b2254cb/amazon-skills/amazon-official/sealeap-amazon-fashion-category-growth/SKILL.md)、[库存与退货](https://github.com/xjli360/sealeap-amazon-skills/blob/1283764556e61cbe56c600bbe504b8731b2254cb/amazon-skills/amazon-official/sealeap-amazon-fashion-category-growth/references/inventory-and-returns.md) | 按结构与场景判断服饰可比性，把售后信号变成合身度、变体、尺码表与样衣验证。 |
+| Nexscope eCommerce Skills · [c5ba892](https://github.com/nexscope-ai/eCommerce-Skills/tree/c5ba892a1cc3178626577aed1dbde5e62a82f1ac) | [买家评论分析](https://github.com/nexscope-ai/eCommerce-Skills/blob/c5ba892a1cc3178626577aed1dbde5e62a82f1ac/product-review-analysis/SKILL.md)、[亚马逊差异化](https://github.com/nexscope-ai/eCommerce-Skills/blob/c5ba892a1cc3178626577aed1dbde5e62a82f1ac/product-differentiation/product-differentiation-amazon/SKILL.md) | 按主题和影响归纳买家反馈，比较独立竞品，在保留卖点的同时验证最有价值的改动。 |
+
+完整的战术选品预设参考卖家精灵同一版本的 [17 项策略目录](https://github.com/opensellersprite/sellersprite-skills/tree/26fd853e7a5cd55b80bea552b33b1c140d8db4ec/tactical)。Skill 中的流程说明和示例按美国女装场景重新撰写。查看或复用上游代码与素材时，以各自仓库的许可范围为准。
