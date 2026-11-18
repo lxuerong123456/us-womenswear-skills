@@ -1,0 +1,16 @@
+sample,structure,month,parent_units_estimated,days_in_month
+A,straight_leg,2025-11,1764,30
+A,straight_leg,2025-12,1519,31
+A,straight_leg,2026-01,1395,31
+A,straight_leg,2026-02,1344,28
+A,straight_leg,2026-03,2232,31
+A,straight_leg,2026-04,2910,30
+A,straight_leg,2026-05,3255,31
+A,straight_leg,2026-06,3000,30
+A,straight_leg,2026-07,3348,31
+A,straight_leg,2026-08,2821,31
+A,straight_leg,2026-09,2490,30
+A,straight_leg,2026-10,2139,31
+B,mixed_cuts_and_fabrics,2026-05,3410,31
+B,mixed_cuts_and_fabrics,2026-06,3120,30
+B,mixed_cuts_and_fabrics,2026-07,3596,31
